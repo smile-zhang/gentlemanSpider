@@ -1,7 +1,7 @@
 CrawlerSetting:
   PageStart: 1
   PageEnd: 1
-  EnableProxy: true
+  EnableProxy: false
   ProxyHost: http://127.0.0.1:62340
   TagConsumerCount: 2
   HonConsumerCount: 6
